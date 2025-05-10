@@ -6,6 +6,12 @@ This project investigates the causal effect of **sports participation** on **stu
 
 The study leverages methods like **propensity score matching**, **regression models**, and **random forests** to estimate treatment effects and uncover insights about this relationship.
 
+---
+
+<img src="https://github.com/user-attachments/assets/6b7015b2-439c-438b-8538-99634f2dec9c" alt="Student_squirrel" width="400"/>
+
+---
+
 - **Dataset**: A sample of 2,392 high school students, including demographics, study habits, and extracurricular activities from Kaggle.
 - **Target**: Understanding the relationship between sports participation and GPA, while controlling for confounding variables such as parental education, study habits, and absences.
 
